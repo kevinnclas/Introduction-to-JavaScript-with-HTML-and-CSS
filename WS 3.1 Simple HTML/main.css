@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding: 5px;
+    text-align: center;
+}
+
+.pinkbox {
+
+    background-color: rgb(255, 228, 233);
+    border:2px solid rgb(255, 56, 165);
+    padding: 20px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+span {
+    background-color: yellow;
+}

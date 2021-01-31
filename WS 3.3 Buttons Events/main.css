@@ -4,32 +4,55 @@ body {
     color: white;
 }
 
-#button1 {
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
     border: none;
     color: white;
     padding: 13px 26px;
     text-align: center;
-    font-size: 20px;
-    cursor: pointer;
-    background-color:darksalmon;
 }
 
-#button2 {
-    border: none;
-    color: white;
-    padding: 13px 26px;
-    text-align: center;
-    font-size: 20px;
+button:not(#button7) {
     cursor: pointer;
+    font-size: 20px;
+}
+
+#button1 {
     background-color:sandybrown;
 }
 
+#button2 {
+    background-color:darksalmon;
+}
+
 #button3 {
-    border: none;
-    color: white;
-    padding: 13px 26px;
-    text-align: center;
-    font-size: 20px;
-    cursor: pointer;
+    background-color:lightcoral;
+}
+
+#button4 {
     background-color:indianred;
+}
+
+#button5 {
+    background-color:firebrick;
+}
+
+#helloWorld {
+    font-size: 100px;
+    margin-bottom: auto;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#button6 {
+    background-color:maroon;
+}
+
+#button7 {
+    font-size: 30px;
+    background-color:red;
 }

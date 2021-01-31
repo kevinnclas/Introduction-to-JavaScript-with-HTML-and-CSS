@@ -10,11 +10,17 @@
     <body id="id">
         <h2>Let's try some buttons !</h2>
         <div id = "allButtons">
-            <button id="button1" onclick=changeBackground()>Change the background color</button>
-            <p></p>
-            <button id="button2" onclick=deleteFirst()>Delete the first button</button>
-            <p></p>
-            <button id="button3" onclick=allUpercase()>Change all the characters to uppercase</button>
+            <button id="button1" onclick="changeBackground()">Change the background color</button>
+            <button id="button2" onclick="deleteFirst()">Delete the first button</button>
+            <button id="button3" onclick="allUpercase()">Change all the characters to uppercase</button>
+            <button id="button4" onclick="allLowercase()">Change all the characters to lowercase</button>
+            <p id = "helloWorld"></p>
+            <button id="button5" onclick="helloWorldCenter()">Write Hello World in the center of the page</button>
+            <audio id = "mySound">
+                <source src="sound.mp3" type="audio/mp3">
+            </audio>
+            <button id = "button6" onclick="playSound()">Play a sound</button>
+            <button id = "button7" onmouseover="disappear()" onmouseout="toldyou()">Careful! Hovering this button will make all the others disappear</button>
         </div>
     </body>
     <script src="myscript.js"></script>

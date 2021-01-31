@@ -1,19 +1,5 @@
 # Web Application Architectures WorkShop 3 : HTML / CSS / Vanilla JS
 
-
-## QUIZZ 
-
-The questions will be relative to the things we've learnt during Workshop 1. The two links below are a good recap, and also add some basic knowledge. please read them well.
-
-https://www.preethikasireddy.com/post/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really
-
-https://www.preethikasireddy.com/post/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application
-
-
-
-
-## CORRECTIONS QUIZZ
-
 ## WS 3.1 Simple HTML / CSS : BLOCK vs INLINE, ELEMENTS POSITIONING , FONTS
 
 ### The Box Model, BLOCK Elements, INLINE Elements :
@@ -64,9 +50,6 @@ you must understand how fonts are displayed in a browser. Sometimes, a font you 
 - Upload on github and send me a PRIVATE link
 
 https://github.com/robderon/WebApplicationArchitectures/blob/master/codeme.jpg
-
-
-### Correction
 
 
 ## WS 3.2 Vanilla JS / DOM Manipulation  / InnerHTML
@@ -128,13 +111,6 @@ Create a responsive webpage with buttons :
 
 Webpage should display nicely on desktop and mobile.
 
-
-
-## For Our Next WorkShop
-You must finish this workshop exercises
-** MUST READ**
-JS canvas, JS Canvas animations
-exercise : code a small game.
 
 ## General Web culture
 https://www.reddit.com/r/webdev/
